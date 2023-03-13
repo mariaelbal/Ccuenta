@@ -33,7 +33,7 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
     private String[] factura = {"seguro", "luz", "agua", "alquiler"};
-
+    private int prueba;
     /**
      * Constructor sin argumentos
      */
